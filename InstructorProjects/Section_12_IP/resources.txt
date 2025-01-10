@@ -1,0 +1,2 @@
+- Install the libaries with:
+pip install pandas openpyxl
